@@ -16,6 +16,4 @@ Estudante de Engenharia de Software, buscando vaga de estágio!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigodesousapereira/)
 
-### Stats do GitHub
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rod7z&theme=black-ice&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
