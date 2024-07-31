@@ -1,10 +1,10 @@
 # Olá, meu nome é Rodrigo
 
 
-## Um pouco sobre mim
+## Sobre mim
 
-Estudante de Engenharia de Software, buscando vaga de estágio!
-
+Tenho 25 anos, atualmente faço faculdade de engenharia de software e estou no 3º periodo.
+Busco vaga de estágio!!
 
 ## Habilidades
 
