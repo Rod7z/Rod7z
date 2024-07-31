@@ -4,7 +4,7 @@
 ## Sobre mim
 
 * Tenho 25 anos
-* Engenharia de software e estou no 3º periodo
+* Cursando engenharia de software, estou no 3º periodo
 * Busco vaga de estágio!
 
 ## Habilidades
