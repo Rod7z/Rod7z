@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-* Cursando engenharia de software, estou no 5º periodo
+* Cursando engenharia de software, estou no 6º periodo
 * Busco vaga de estágio!
 
 ## Habilidades
